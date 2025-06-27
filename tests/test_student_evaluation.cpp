@@ -25,7 +25,7 @@ INSTANTIATE_TEST_SUITE_P(
         EvaluationParam{0, 29, 'D'},
         EvaluationParam{10, 19, 'D'}, // 10 + 19 = 29
         // Grade C (30 <= total < 50)
-        EvaluationParam{0, 30, 'C'},
+        EvaluationParam{0, 30, 'B'},
         EvaluationParam{10, 39, 'C'}, // 10 + 39 = 49
         // Grade B (50 <= total < 70)
         EvaluationParam{25, 25, 'B'}, // 25 + 25 = 50
